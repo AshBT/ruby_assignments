@@ -1,5 +1,5 @@
 require 'test/unit'
-require './piglatin_converter'
+require_relative 'piglatin_converter'
 
 class TestAdd < Test::Unit::TestCase
 
