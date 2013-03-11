@@ -29,6 +29,3 @@ Your assignment is to write the `PiglatinConverter#convert` method that takes in
  4. Run the test cases to test your solution.
  5. Repeat steps 3 and 4 until all tests pass.
 
-# Bonus Marks
-
-... for those of you who come up with test cases in addition to the 8 words we have above.
