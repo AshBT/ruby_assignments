@@ -1,22 +1,3 @@
-# Pig Latin
-
-# Pig Latin is a language game of altering words. To form the Pig Latin of an English word the first consonant (or group of consonants) is moved to the end of the word and an 'ay' is affixed.
-
-# Your assignment is to write the PiglatinConverter.convert method that takes in a word and returns the piglatin.  
-
-# Here are some sample inputs and the expected output for the method PiglatinConverter.convert:
-#
-#   INPUT            OUTPUT
-# -------------------------------
-#   pig             igpay
-#   computer        omputercay
-#   freedom         eedomfray
-#   string          ingstray
-#   String          ingstray
-#   StrinG          ingstray
-#   <EMPTY STRING>  <EMPTY STRING>
-#   nil             nil
-
 class PiglatinConverter
   VOWELS = ["a", "e", "i", "o", "u"]
 
